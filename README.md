@@ -55,7 +55,11 @@ Second, processes within a star, such as nuclear fusion in its core, occur at in
 - Github account: **https://github.com/Taropie3sui**
 - Published webpage for stage 2: **https://taropie3sui.github.io/exquisite-corpse-stage-2/**
 
-*... comments to be added here*
+**Overview:**
+Inspired by Cat’s code, I absolutely loved the pixel elements combined with the galaxy theme. I really admired the choice of pixel stars and the constantly increasing number of stars in the background. To make the code interactive, I came up with the idea of allowing users to create their own ‘galaxy’. I began by adding more pixel images of planets, Earth, stars, and so forth to the file. By simply clicking on the canvas, viewers can place a random star at their chosen location, leaving their mark on the canvas. Meanwhile, I maintained the feature of increasing little stars in the background.
+
+**Reflection:**
+I wish I could manipulate the sizes of the images I introduced. They were kept at their original sizes, which could be problematic when the ‘Earth’ image is bigger than a ‘galaxy’. I appreciate building on Cat’s code, as I learned something new such as the star shapes, introducing PNG images to the code in addition to JPGs, and adjusting the canvas size by manipulating window sizes instead of fixed numbers.
 
 ### 🟩 Stage 3
 - Name/Alias:
