@@ -1,4 +1,3 @@
-# exquisite-corpse-stage-2
 # Exquisite Corpse in Silico
 ## 🔻 *starcycle* 🔻
 
@@ -52,9 +51,9 @@ The life cycle of a star is an unconventional representation of time because it 
 Second, processes within a star, such as nuclear fusion in its core, occur at incredibly high temperatures and pressures. This leads to rapid changes and transformations over much shorter periods of time compared to the overall lifespan of the star. This rapid change in the core reminds me of a computing and coding environment. The complex interactions in the star's core that create emergent behaviors and phenomena can then be compared to the performance of machine learning and artificial intelligence algorithms. Just as stars evolve and exhibit different stages of their life cycle, artificial intelligence systems learn from data and experience to adapt and improve
 
 ### 🟨 Stage 2
-- Name/Alias: Grace An/ Taropie3sui
-- Github account: https://github.com/Taropie3sui
-- Published webpage for stage 2:
+- Name/Alias:** Grace An/ Taropie3sui**
+- Github account: **https://github.com/Taropie3sui**
+- Published webpage for stage 2:** https://taropie3sui.github.io/exquisite-corpse-stage-2/**
 
 *... comments to be added here*
 
